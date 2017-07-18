@@ -1,0 +1,28 @@
+{
+  "name": "last-gmail",
+  "version": "1.0.0",
+  "description": "Retrieves the last email sent to a gmail account",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nboxhallburnett/last-gmail.git"
+  },
+  "keywords": [
+    "email",
+    "gmail",
+    "imap"
+  ],
+  "author": "Nathan Boxhall-Burnett",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nboxhallburnett/last-gmail/issues"
+  },
+  "homepage": "https://github.com/nboxhallburnett/last-gmail#readme",
+  "dependencies": {
+    "imap": "~0.8.19",
+    "mailparser": "~0.6.0"
+  }
+}
