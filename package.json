@@ -22,7 +22,11 @@
   },
   "homepage": "https://github.com/nboxhallburnett/last-gmail#readme",
   "dependencies": {
-    "imap": "~0.8.19",
-    "mailparser": "~0.6.0"
+    "imap": "0.8.19",
+    "mailparser": "2.6.0"
+  },
+  "devDependencies": {
+    "eslint": "5.16.0",
+    "eslint-config-axway": "4.2.2"
   }
 }
