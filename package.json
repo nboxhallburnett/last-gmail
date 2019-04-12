@@ -1,6 +1,6 @@
 {
   "name": "last-gmail",
-  "version": "1.0.1",
+  "version": "2.0.0",
   "description": "Retrieves the last email sent to a gmail account",
   "main": "index.js",
   "scripts": {
