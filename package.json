@@ -4,6 +4,7 @@
   "description": "Retrieves the last email sent to a gmail account",
   "main": "index.js",
   "scripts": {
+    "lint": "eslint --ext .js ./",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -26,7 +27,7 @@
     "mailparser": "2.7.7"
   },
   "devDependencies": {
-    "eslint": "5.16.0",
-    "eslint-config-axway": "4.2.2"
+    "eslint": "6.8.0",
+    "eslint-config-axway": "4.6.0"
   }
 }
