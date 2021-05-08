@@ -27,7 +27,7 @@
     "mailparser": "2.7.7"
   },
   "devDependencies": {
-    "eslint": "6.8.0",
-    "eslint-config-axway": "4.6.0"
+    "eslint": "7.26.0",
+    "eslint-config-axway": "6.0.1"
   }
 }
