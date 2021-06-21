@@ -13,7 +13,8 @@ var gmail = require('last-gmail');
 
 var opts = {
     user: 'example@gmail.com',
-    password: 'password'
+    password: 'password',
+    mailbox: 'INBOX' // Optional, default: [Gmail]/All Mail
 };
 
 gmail.getLastEmail(opts, function (err, email) {
