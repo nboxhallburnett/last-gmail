@@ -29,5 +29,9 @@
   "devDependencies": {
     "eslint": "8.38.0",
     "eslint-config-axway": "8.0.0"
+  },
+  "engines": {
+    "node": "^18.12.0",
+    "npm": ">=8.19.2"
   }
 }
